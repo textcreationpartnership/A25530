@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a letter written by a member of Parliament in the countrey upon the occasion of his reading of the Gazette of the 11th of December, 1679.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25530</idno>
+            <idno type="STC">Wing A3320</idno>
+            <idno type="STC">ESTC R10364</idno>
+            <idno type="EEBO-CITATION">11674293</idno>
+            <idno type="OCLC">ocm 11674293</idno>
+            <idno type="VID">48074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 524:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a letter written by a member of Parliament in the countrey upon the occasion of his reading of the Gazette of the 11th of December, 1679.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London ? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48074:1"/>
+            <pb n="1" facs="tcp:48074:1" rendition="simple:additions"/>
+            <head>An Anſwer to a LETTER Written by a Member of Parliament in the Countrey, upon the occaſion of his reading of the <hi>Gazette</hi> of the <hi>11th</hi> of <hi>Decem<g ref="char:EOLhyphen"/>ber, 1679.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received your Letter, when I was engaged in much other buſineſs, which will excuſe me that I have not returned an Anſwer ſooner, and that it is done no better now: You deſire me to let you know what that Judgment is which my Lord Chancellor acquainted my Lord Mayor and his Brethren with, and what my thoughts are upon it: and that I may obey you in both, I will firſt Tran<g ref="char:EOLhyphen"/>ſcribe that Caſe, as it is reported by Juſtice <hi>Crook,</hi> that being already put into <hi>Engliſh,</hi> whereas the Caſe in <hi>Moor</hi> is in <hi>French.</hi>
+            </p>
+            <p>
+               <hi>MEmorandum,</hi> That by Command from the King, all the Juſtices of <hi>England,</hi> with divers of the Nobility, <hi>viz.</hi> the Lord <hi>Elleſmere</hi> Lord Chancellor, the Earl of <hi>Dor<g ref="char:EOLhyphen"/>ſet</hi> Lord Treaſurer, Viſcount <hi>Cranbourn</hi> Principal Secretary, the Earl of <hi>Nottingham</hi> Lord Admiral, the Earls of <hi>Northumberland, VVorceſter, Devon</hi> and <hi>Northampton,</hi> the Lords <hi>Zouch, Burghley</hi> and <hi>Knowles,</hi> the Chancellor of the <hi>Dutchy,</hi> the Archbiſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> the Biſhop of <hi>London, Popham</hi> Chief Juſtice, <hi>Bruce</hi> Maſter of the Rolls, <hi>An<g ref="char:EOLhyphen"/>derſon, Gawdy, VValmeſley, Fenner, Kingſmil, VVarberton, Savel, Daniel, Yelverton</hi> and <hi>Snigg,</hi> were aſſembled in the <hi>Star-Chamber,</hi> where the Lord Chancellor after a long Speech made by him concerning Juſtices of Peace, and his Exhortation to the Juſtices of Aſſize, and a diſcourſe concerning Papiſts and Puritans, Declaring how they both were diſturbers of the State, and that the King intending to ſuppreſs them, and to have the Laws put in Execution againſt them, demanded of the Juſtices their Reſulutions in three things: Firſt, Whether the Deprivation of Puritan-Miniſters by the High Commiſſioners, for refuſing to conform themſelves to the Ceremonies appointed by the laſt Canons, was Lawful? Whereto all the Juſtices anſwered, That they had conferred thereof before, and held it to be Lawful, becauſe the King hath the Supreme Eccleſia<g ref="char:EOLhyphen"/>ſtical power, which he hath delegated to the Commiſſioners, whereby they had the power of Deprivation by the Canon-Law of the Realm. And the Statute of 1 <hi>Eliz.</hi> which appoints Commiſſioners to be made by the Queen, doth not confer any new power, but explain and declare the ancient power. And therefore they held it clear, <hi>That the King without Parliament might make Orders and Conſtitutions for the Govern<g ref="char:EOLhyphen"/>ment☜ of the Clergy, and might deprive them if they obeyed not. And ſo the Commiſſioners might deprive them.</hi> But they could not make any Conſtitutions without the King: And the divulging of ſuch Ordinances by Proclamation is a moſt gracious Admonition; And for as much as they have refuſed to obey, they are Lawfully deprived by the Com<g ref="char:EOLhyphen"/>miſſioners <hi>ex Officio,</hi> without Libel <hi>Et ore tenus convocati.</hi> Secondly, Whether a Pro<g ref="char:EOLhyphen"/>hibition be grantable againſt the Commiſſioners upon the Statute of 2 <hi>H.</hi> 5. if they do not deliver the Copy of the Libel to the party; Whereto they all anſwered, That that Statute is intended where the Eccleſiaſtical Judg proceeds <hi>ex Officio &amp; ore tenus.</hi> Thirdly, Whether it were an offence puniſhable, and what puniſhment they deſerved, who framed Petitions, and collected a multitude of hands thereto, to prefer to the King in a publick cauſe, as the Puritans had done, with an Intimation to the King, That if he denied their ſute, many thouſands of his Subjects would be diſcontented? Whereto all the Juſtices anſwered, That it was an offence finable at diſcretion, and very near <hi>to Treaſon and Felony in the puniſhment.</hi> For they tended to the raiſing of Sedition, Re<g ref="char:EOLhyphen"/>bellion, and diſcontent among the people: To which Reſolution all the Lords agreed. And then many of the Lords declared, That ſome of the Puritans had raiſed a falſe Ru<g ref="char:EOLhyphen"/>mor of the King, how he intended to grant a toleration to Papiſts: Which offence the Juſtices conceived to be heinouſly finable by the Rules of the Common Law, either in the Kings Bench, <hi>or by the King and his Councel;</hi> or now ſince the Statute of 3 <hi>H.</hi> 7. in the Star-Chamber. And the Lords ſeverally declared how the King was diſcon<g ref="char:EOLhyphen"/>tented with the ſaid falſe Rumor, and had made but the day before a proteſtation unto
+<pb n="2" facs="tcp:48074:2"/>them, that he never intended it, and that he would ſpend the laſt drop of blood in his body before he would do it; and prayed that before any of his Iſſue ſhould maintain any other Religion than what he truly profeſſed and maintained, that God would take them out of the world.</p>
+            <p>I doubt not but your ſelf, and every <hi>Engliſh</hi> Proteſtant will joyn with this Royal Pe<g ref="char:EOLhyphen"/>titioner, and will heartily ſay <hi>Amen.</hi>
+            </p>
+            <p>But you deſire to know if I think that the Reſolution of the Judges in this caſe ought to deter us from humbly Petitioning His Majeſty, that this Parliament may effectually ſit on the 26th day of <hi>January</hi> next. In order to this, give me leave to obſerve to you, As it is moſt certain, that a great Reverence is due to the Unanimous opinion of all the Judges; ſo there is a great Difference to be put between the Authority of their Judg<g ref="char:EOLhyphen"/>ments, when ſolemnly given, in Caſes depending before them, and their ſudden and ex<g ref="char:EOLhyphen"/>trajudicial Opinions. The Caſe of Ship-money it ſelf is not a better proof of this, than that which you have now read, as you will eaſily ſee, if you conſider diſtinctly what they ſay to the ſeveral Queſtions propoſed to them.</p>
+            <p>As to their Anſwer to the firſt Queſtiom, it much concerns the Reverend Clergy to enquire whether they did not miſtake in it? and whether the King by his Proclama<g ref="char:EOLhyphen"/>tion can make new Conſtitutions, and oblige them to Obedience under the penalty of Deprivation? Should it be ſo, and ſhould this unhappy Kingdom ever ſuffer under the Reign of a Popiſh Prince, he might eaſily rid himſelf of ſuch obſtinate Hereticks, and leave his Eccleſiaſtical Preferments open for men of better Principles: He will need only to publiſh a Proclamation, that Spittle and Salt ſhould be uſed in Baptiſm, that Holy water ſhould be uſed, and Images ſet up in Churches; and a few more ſuch things as theſe, and the buſineſs were effectually done. But if you will believe my Lord Chief Juſtice <hi>Cook,</hi>
+               <note place="margin">12. <hi>Co.</hi> 19:</note> he will tell you that it was agreed by all the Judges upon Debate, <hi>Hill.</hi> 4<hi>to Jacobi,</hi> and that it was reſolved by the whole Court of Common Pleas, <hi>Trin.</hi> 6<hi>to Jacobi,</hi>
+               <note place="margin">12. <hi>Co.</hi> 49:</note> that the King cannot change his Eccleſiaſtical Laws; and you may eaſily remem<g ref="char:EOLhyphen"/>ber ſince the whole Parliament declared, that he could not alter or ſuſpend them.</p>
+            <p>I have the uniform Opinion of all the Judges given upon great Deliberation, <hi>Mich.</hi> 4<hi>to Jac.</hi> to juſtifie me,<note place="margin">Co. Mag. Char. <hi>616.</hi>
+               </note> if I ſay that our Judges here were utterly miſtaken in the Anſwer which they gave to the ſecond Queſtion. I will not cite the numerous ſubſequent Au<g ref="char:EOLhyphen"/>thorities, ſince every man knows that it is the conſtant practiſe of <hi>VVeſtminſter-Hall</hi> at this day to grant Prohibitions, upon refuſal to give a Copy of Articles, where the Pro<g ref="char:EOLhyphen"/>ceedings in the Eccleſiaſtical Courts are <hi>ex Officio.</hi>
+            </p>
+            <p>You ſee there was a kind of ill Fate upon the Judges this day, as uſually there was when met in the Star-Chamber, and that they were very unfortunate in anſwering two of the three Queſtions propoſed to them; let us go to on to conſider what does princi<g ref="char:EOLhyphen"/>pally concern us at preſent, their Anſwer to the laſt Queſtion.</p>
+            <p>You have juſt done reading it, and therefore I need not repeat to you either the Doubt or the Solution of it; but one may be allowed ro ſay modeſtly, that it was a ſudden An<g ref="char:EOLhyphen"/>ſwer: 'Tis poſſible the Lords then preſent were well enough inform'd, when they were told that ſuch kind of Petitioning was an offence next to Treaſon and Felony; but I dare be ſo bold as to ſay, That at this day not a Lawyer in <hi>England</hi> would be the wiſer for ſuch an Anſwer; they would be confounded, and not know whether it were miſpriſion of Treaſon, which ſeems an offence neareſt to Treaſon, or petty-Larceny, which ſeems neareſt to Felony.</p>
+            <p>You will be apt to tell me that I miſtake my Lords the Judges, and they ſpoke not of the nature of the crime, but of the manner of the puniſhment; but this will mend the matter but little; for ſince the puniſhments of thoſe two Crimes is ſo very different, you are ſtill as much in the dark as ever, what theſe ambiguous words mean.</p>
+            <p>Well, but we will agree, that the Crime about which the Enquiry was made, was a very great one. When men arrive to ſuch inſolence, as to threaten their Prince, it will be but little excuſe to them to call their <hi>Monaces</hi> by the ſoft and gentle name of <hi>Petitions.</hi>
+            </p>
+            <p>But you would know for what, and in what manner we are at preſent to Petition; and I will give you a plain and an infallible Rule.<note place="margin">13. <hi>Car.</hi> 2. <hi>c.</hi> 5.</note> It is the Statute 13. <hi>Car.</hi> 2. <hi>c.</hi> 5.</p>
+            <p>Be it enacted, <hi>&amp;c.</hi> that no perſon or perſons whatſoever ſhall ſolicite, labour, or pro<g ref="char:EOLhyphen"/>cure the getting of hands, or other conſent of any perſons above the number of Twenty, or more, to any Petition, Complaint, Remonſtrance, Declaration, or other Adreſſes to the King, or both, or either Houſes of Parliament, for alteration of matters eſtabliſhed by Law in Church or State, unleſs the mattet thereof have been firſt conſented to, and ordered by three or more Juſtices of the County, or by the major part of the Grand Jury of the County, or Diviſion of the County, where the ſame matter ſhall ariſe at their publick Aſſizes, or general Quarter-Seſſions; or if ariſing in <hi>London,</hi> by the Lord Mayor, Aldermen, and Commons in Common Council Aſſembled; and that no perſon or perſons
+<pb n="3" facs="tcp:48074:2"/>whatſoever ſhall repair to His Majeſty, or both, or either of the Houſes of Parliament, upon pretence of preſenting or delivering any Petition, Complaint, Remonſtrance, or Declaration, or other Addreſſes, accompanied with exceſſive number of people, not at any one time with above the number of ten perſons, upon pain of incurring a penalty, not exceeding the ſum of 100 <hi>l.</hi> in money, and three months Impriſonment, without Bail or Mainprize for every offence; which offence to be proſecuted at the Court of <hi>Kings-Bench,</hi> or at the Affizes, or general Quarter-Seſſions, within ſix months after the offence committed, and proved by two or more credible Witneſſes.</p>
+            <p>Here you obſerve the Parliament, who ſet themſelves directly to obviate all the incon<g ref="char:EOLhyphen"/>veniences which might ariſe to the Government from tumultuous Petitioning, will not allow that great Numbers ſhould joyn in Petitions for alteration of the Laws (becauſe it is poſſible ill men might abuſe ſuch a liberty), unleſs the mattet of the Petition be con<g ref="char:EOLhyphen"/>ſented to in ſuch a manner as the Act directs; but in all other caſes, they leave the Sub<g ref="char:EOLhyphen"/>jects to their undoubted liberty, as well knowing that from thence there could ariſe no poſſible inconvenience; but on the contrary, that to bar the people of that humble way of making their wants known, might force them upon worſe ways of doing it.</p>
+            <p>And therefore I muſt tell you, that you do my Lord Chancellor great injuſtice if you think his Speech tends to deter men from all manner of Petitioning: No, that wiſe and eloquent Lord, who receives every day ſo many Petitions, will, I ſuppoſe, be content the King ſhould receive ſome too. It never yet was thought ſeditious or tumultuous in any Government, for the Subjects in an humble manner to beg, That he who has the only power to do it, would redreſs their Grievances: 'Tis the way by which we apply our ſelves to the King of Heaven, who knows all our wants, and yet expects from us that we ſhould daily expreſs them to him in humble Petitions. And the Wiſdom of the Church, which has appointed Liturgies. and forms of Common-Prayer, ſeems to inſtruct us, that God is pleaſed when huge Numbers joyn in the ſame Petition. Why ſhould not then ſuppliant Subjects, with like humility, and in like manner addreſs themſelves to the Gods on Earth? eſpecially ſince Kings cannot know our Deſires, or our Grievances, till we our ſelves inform them what they are.<note place="margin">
+                  <hi>Dan.</hi> ch. 6.</note> I remember ſome wicked Councellors of <hi>Da<g ref="char:EOLhyphen"/>rius</hi> did once obtain a Law to be made, that none ſhould Petition any one but the King for Thirty days; but there never yet was found ſo abſurd a Stateſman as to adviſe a Law, that Subjects ſhould not ſupplicate their Prince. 'Tis probable it would be well for ſome Favourites, who are near a King, if ſuch a right could be taken from the people, for then all their falſe ſuggeſtions and informations might paſs undiſcovered; but 'tis impoſſible that a King ſhould long be ſafe in ſuch a condition. I will ſuppoſe a malicious Stateſman, intending to raiſe a jealouſie in the mind of the Soveraign, ſhould inform him in dangerous times, that he was not beloved by his people, and that he was not to truſt them: How could the Subjects in ſuch a caſe recover the Princes good opinion, in the abſence of a Legal Repreſentative, but by humble and affectionate Addreſſes? Or ſuppoſe ſome good Proteſtant Prince ſhould be ſo unfortunate, as to have ſome Councellors near him who are conceal'd; and others, whoſe Crimes make them fear Parliaments; it is eaſie to ſuppoſe, that the one ſort will be filling his ears with Stories, that a great part of his Kingdom are inclined to Popery; and the other ſort, that the beſt of his Subjects are quite out of love with Parliaments, as factious and ſeditious Aſſemblies. Into what unfortunate cir<g ref="char:EOLhyphen"/>cumſtances would ſuch a Prince be apt to fall, if his people were precluded from addreſ<g ref="char:EOLhyphen"/>ſing themſelves, and opening their deſires to him!</p>
+            <p>I might go on to trouble you with infinite Inſtances of this nature, but there is no want of any in ſo plain a caſe: 'Tis the Doctrine of our Church, that the only Arms of Sub<g ref="char:EOLhyphen"/>jects, are Prayers, Petitions, Supplications, and Tears; and they are no friends either to the King or Church, who would diſarm us of theſe. My Lord Chief Juſtice <hi>Hobbart</hi> tells us,<note place="margin">Hob. <hi>220.</hi> Wren<g ref="char:EOLhyphen"/>hams <hi>Caſe.</hi>
+               </note> That it is lawful for any Subject to Petition to the King for redreſs in an humble and modeſt manner; for (ſays he) acceſs to the Soveraign muſt not be ſhut up in caſe of the Subjects diſtreſſes.<note place="margin">Vet. Magn. Chart. Exil. Hugi. De Spen<g ref="char:EOLhyphen"/>cer <hi>51.</hi>
+               </note> It was one of the Crimes for which the <hi>Spencers</hi> were baniſhed by Parliament, that they hindred the King from receiving and anſwering Petitions from great men, and others.</p>
+            <p>And as it is our unqueſtionable Right, ſo in all ages the uſage has been by Petition, to inform our King of our Grievances. In the Reign of King <hi>Ed.</hi> the II. and <hi>Ed.</hi> the III. Petitions were frequent for Redreſs of publick Grievances, and for Parliaments, eſpeci<g ref="char:EOLhyphen"/>ally out of <hi>Ireland</hi> (though that is a conquer'd Nation), as may be ſeen in the cloſe Rolls of the Reigns of thoſe two Kings. One inſtance I will give you for your ſatisfaction, but I will tire you with no more, for that would be endleſs.</p>
+            <p>'Tis <hi>Clauſ.</hi> 10. <hi>Ed.</hi> 2. <hi>M.</hi> 28. <hi>intus Pro communitate Hiberniae. Rex Dilect.</hi>
+               <note place="margin">Clauſ. <hi>to.</hi> E. <hi>2.</hi> M. <hi>28.</hi> intus Pro communi<g ref="char:EOLhyphen"/>tate Hiberniae!</note> &amp; fidelibus ſuis Juſta. Cancellar. &amp; The ſaur. ſuis Hib. ſalutem ex parti populi noſtri terrae predict. per Petitionem ſuam eoram nobis &amp; Concillio noſtro exhibitum nobis eſe cum inſtantia ſuppli<g ref="char:EOLhyphen"/>catum, quod cum, <hi>&amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:48074:3"/>
+            <p>In the 5th year of King <hi>Richard</hi> the II.<note place="margin">
+                  <hi>Coke</hi> Juriſ<g ref="char:EOLhyphen"/>diction of Courts, <hi>p.</hi> 79. <hi>Burarts</hi> Hiſto<g ref="char:EOLhyphen"/>ry of the Re<g ref="char:EOLhyphen"/>formation, <hi>pag.</hi> 231. <hi>Procl. Dat.</hi> 7. <hi>Feb.</hi> 11. <hi>Jac.</hi>
+               </note> the whole body of the Realm Petition'd, that the moſt wiſe and able men within the Realm might be choſen Chancellors.</p>
+            <p>King <hi>Henry</hi> the VIII. told his Subjects then in Arms againſt him in <hi>York ſhire,</hi> that they ought not to have Rebell'd, but to have applied themſelves to him by Petition.</p>
+            <p>King <hi>James</hi> by a Proclamation publiſht in the 12th year of his Reign, begins thus: The complaints lately exhibited to us by certain Noblemen, and others of our Kingdom of <hi>Ireland,</hi> ſuggeſting diſorders and abuſes, as well in the proceedings of the late be<g ref="char:EOLhyphen"/>gun. Parliament, as in the Martial and Civil Government of the Kingdom, We did re<g ref="char:EOLhyphen"/>ceive with extraordinary grace and favour.</p>
+            <p>And by another Proclamation in the 12th year of his Reign,<note place="margin">Procl. 12 <hi>Jac.</hi>
+               </note> he declares, That it was the right of his ſubjects to make their immediate addreſſes to him by petition; and in the 19th year of his reign he invites his ſubjects to it.</p>
+            <p>And in the 20th year of his Reign he tells his people,<note place="margin">Procl. dat. 10th <hi>July.</hi> 19. <hi>Jac.</hi> Procl. dated 14 <hi>Feb.</hi> 20. <hi>Jac.</hi>
+               </note> That his own, and the ears of his Privy-Council did ſtill continue open to the juſt complaints of his people; and that they were not confined to times and meetings in Parliament, nor reſtrained to par<g ref="char:EOLhyphen"/>ticular Grievances; not doubting but that his loving ſubjects would apply themſelves to his Majeſty for relief; to the utter aboliſhing of all thoſe private whiſperings and cauſleſs rumours, which without giving his Majeſty any opportunity of reformation by particular knowledg of any fault, ſerve to no other purpoſe but to occaſion and blow abroad diſcontentment.</p>
+            <p>It appears that the Houſe of Lords both ſpiritual and temporal,<note place="margin">Lords Jour<g ref="char:EOLhyphen"/>nal <hi>An.</hi> 1640.</note> 
+               <hi>nemine contradi<g ref="char:EOLhyphen"/>cente,</hi> voted thanks to thoſe Lords who petitioned the King at <hi>York,</hi> to call a Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And the King by his Declaration printed in the ſame year,<note place="margin">Declar. 1640.</note> declares his Royal will and pleaſure, That all his loving ſubjects who have any juſt cauſe to preſent or com<g ref="char:EOLhyphen"/>plain of any Grievances or Oppreſſions, may freely addreſs themſelves by their hum<g ref="char:EOLhyphen"/>ble petitions to His Sacred Majeſty, who will graciouſly hear their complaints.</p>
+            <p>Since His Majeſty's happy Reſtauration,<note place="margin">Temp. Car. <hi>2.</hi>
+               </note> the inhabitants of the County of <hi>Bucks</hi> made a petition, That their County might not be over-run by the Kings Deer; and the ſame was done by the County of <hi>Surry</hi> on the ſame occaſion.</p>
+            <p>'Tis time for me to conclude your trouble: I ſuppoſe you do no longer doubt but that you may join in Petition for a Parliament, ſince you ſee it has been often done heretofore; nor need you fear how many of your honeſt Countreymen join with you, ſince you hear of Petitions by the whole body of the Realm; and ſince you ſee, both by the opinions of our Lawyers, by the Doctrine of our Church, and by the Declara<g ref="char:EOLhyphen"/>tions of our Kings, That it is our undoubted right to petition. Nothing can be more abſurd than to ſay, That the number of the Supplicants makes an innocent petition an offence; on the contrary, if in a thing of this publick concernment, a few only ſhould addreſs themſelves to the King, it would be a thing in its ſelf ridiculous; the great end of ſuch Addreſſes being to acquaint Him with the general deſires of His people, which can never be done unleſs multitudes join. How can the complaints of the diffuſive body of the Realm reach His Majeſty's ears in the abſence of Parliament, but in the actual concurrence of every individual perſon in petition? for the perſonal application of multitudes, is indeed unlawful and dangerous.</p>
+            <p>Give me leave,<note place="margin">
+                  <hi>Stat.</hi> 13. <hi>Car.</hi> 2. <hi>c.</hi> 5.</note> ſince the <hi>Gazette</hi> runs ſo much in your mind, to tell you (as I may mo<g ref="char:EOLhyphen"/>deſtly enough do, ſince the Statute directs me) what anſwer the Judges would now give if ſuch another Caſe were put to them, as was put to the Judges 2 <hi>Jacobi.</hi>
+            </p>
+            <p>Suppoſe the Nonconformiſts at this day (as the <hi>Puritans</hi> then did) ſhould ſollicité the getting of the hands of multitudes to a Petition to the King for ſuſpending the ex<g ref="char:EOLhyphen"/>ecution of the penal Laws againſt themſelves; the preſent Judges would not tell you that this was an offence next to Treaſon or Felony, nor that the offenders were to be brought to the Council-board to be puniſhed; but they would tell you plainly and diſtinctly, That if the hands of more perſons than twenty were ſollicited or procured to ſuch a petition, and the offenders were convicted upon the evidence of two or more credible Witneſſes upon a proſecution in the Kings Bench, or at the Aſſizes or Quarter Seſſions, within ſix months, they would incur a penalty not exceeding a hundred pounds, and three months impriſonment, becauſe their petition was to change a matter eſtabliſht by Law. But I am ſure you are a better Logician than not to ſee the difference which the Statute makes between ſuch a petition which is to alter a thing eſtabliſht by Law, and an innocent and humble petition, That a Parliament may meet according to Law, in a time when the greateſt dangers hang over the King, the Church, and the State.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48074:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
